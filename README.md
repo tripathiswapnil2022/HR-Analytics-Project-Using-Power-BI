@@ -26,6 +26,12 @@ The Dashboard provides Presence Insights of the employees.
 5.WFH Count  
 6.SL Count  
 
+**Outcomes:**    
+1.In june, 15% of people are WFH people & 90% people Present.In May ,11% of people are WFH people & 90 % people present. In April,9% of people are WFH people & 94 % people present.    
+2.As June approaches, presence % decreases ; WFH increases ;SL are increasing may be due to hot summer month.     
+3.Most people are present on Monday or Tuesday .     
+4.Most people take WFH on Friday or Thursday may be to have extended weekend at home.  
+
 **Learnings:**  
 
  1- Learned about telling data-driven stories with this beautiful dashboard.  
@@ -36,6 +42,5 @@ The Dashboard provides Presence Insights of the employees.
  6- Got a good understanding of art of googling my problems.  
  7- Got a deeper understanding of the HR Domain.  
 8- Copy and Paste visuals and alter them to boost our productivity.  
-
 
 
